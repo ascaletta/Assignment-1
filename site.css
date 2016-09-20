@@ -1,0 +1,41 @@
+/* the styles for the elements */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+html, body{
+	margin: 0;
+	height: 100%;
+}
+
+html {
+	background-color: white;
+}
+
+body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-color: #e7f5fe;
+	font-size: 100%;
+	width: 100%;
+	max-width: 1920px;
+}
+
+section, h1, h3, p {
+	margin: 0;
+	padding: 0;
+}
+
+section {
+	margin-bottom: 1em;
+}
+
+p {
+	margin-left: auto;
+	margin-right: auto;
+	width: 65%;
+	
+	font-size: .875em;
+
+}
+
